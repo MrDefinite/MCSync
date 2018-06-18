@@ -13,7 +13,7 @@ public class Config {
 
     String remoteUrl;
 
-    String execCmd;
+    ConfigOperatin operatin;
 
     ConfigType type;
 
